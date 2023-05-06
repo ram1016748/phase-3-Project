@@ -1,0 +1,7 @@
+.border {
+    border: none !important;
+}
+.buttonsGroup {
+    display: flex;
+    justify-content: center;
+}
